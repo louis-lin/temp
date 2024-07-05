@@ -10,6 +10,7 @@ Launched in 1990, Hubble has been instrumental in numerous astronomical discover
 .. image:: /_static/hubble.jpg
    :alt: Hubble Space Telescope
    :width: 400pxJames Webb Space Telescope
+
 --------------------------
 Launched in 2021, the James Webb Space Telescope is the largest and most powerful space telescope ever built.
 

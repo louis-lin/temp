@@ -10,7 +10,11 @@ Contents:
    planets
    telescopes
 <<<<<<< HEAD
+<<<<<<< HEAD
    calculator
+=======
+   calculator
+>>>>>>> 95c65a165461299656d33c83834eea48a195d0d0
 =======
    calculator
 >>>>>>> 95c65a165461299656d33c83834eea48a195d0d0
