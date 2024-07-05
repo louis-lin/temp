@@ -4,7 +4,7 @@ Welcome to Space Exploration Wiki
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    missions
    planets
