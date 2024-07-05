@@ -9,3 +9,4 @@ Contents:
    missions
    planets
    telescopes
+   calculator
